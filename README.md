@@ -1,3 +1,4 @@
+![cover](BackgroundCoverImage.png)
 ## About me
 Hello there 👋🏾 I'm Miguel Etienne an Audio Technition turned Software Engineer with experience in Information Technology.
 - 👨🏾‍💻 I'm commited to the tech field 
